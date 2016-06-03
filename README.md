@@ -1,2 +1,0 @@
-# riderCode
-rider code repository
